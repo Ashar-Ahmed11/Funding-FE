@@ -32,6 +32,7 @@ const AkhuwatLoanStatus = () => {
     setLoading(false);
     modalInstance?.show();
   };
+  const color = "#0195ff"
 
   return (
     <div className="container py-5" id='loan-status'>
@@ -41,7 +42,7 @@ const AkhuwatLoanStatus = () => {
           <div className="shadow rounded p-4 bg-white">
             <img
               src="https://akhuwatloanschemepk.com/wp-content/uploads/2024/10/akhuwat-loan-apply_2024.webp"
-              alt="Akhuwat Loan Banner"
+              alt="Asaan Qarz Loan Banner"
               className="img-fluid rounded mb-3"
             />
             <form onSubmit={handleSubmit}>
@@ -55,7 +56,7 @@ const AkhuwatLoanStatus = () => {
                   required
                 />
               </div>
-              <button type="submit" className="btn btn-success w-100 py-3" disabled={loading}>
+              <button type="submit" style={{backgroundColor:color,color:"#ffffff"}} className="btn w-100 py-3" disabled={loading}>
                 {loading ? (
                   <div className="d-flex justify-content-center align-items-center gap-2">
                     <span className="spinner-border spinner-border-sm" role="status" />
@@ -71,9 +72,9 @@ const AkhuwatLoanStatus = () => {
 
         {/* Right column: Info */}
         <div className="col-md-6 p-5">
-          <h2 className="fw-bold mb-3">Check on the Status of Your Loan At Anytime</h2>
+          <h2 className="fw-bold mb-3">You can check on your loan at any time.</h2>
           <p>
-            Enter your CNIC number to see where your Akhuwat loan application stands right now. If you need help or have questions, you can use the Akhuwat Loan WhatsApp Helpline.
+            Entering your CNIC number is all it takes to see where your Asaan Qarz loan application stands right now. You can use the Asaan Qarz Loan WhatsApp Helpline to get help or ask questions.
           </p>
         </div>
       </div>

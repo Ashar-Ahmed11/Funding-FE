@@ -2,7 +2,7 @@
 import React, { useEffect, useState } from "react";
 import Sidebar from "./Sidebar";
 import Infographic from '../Images/Infograph.png'
-import aboutUsImg from '../Images/Akhuwat loan service.jpg'
+// import aboutUsImg from '../Images/Asaan Qarz loan service.jpg'
 import SecAboutus from '../Images/For house loan.jpg'
 
 const AboutUs = () => {
@@ -24,113 +24,108 @@ const AboutUs = () => {
               <h1 className="fw-bold mb-4">About Us</h1>
 
               <p className="mb-4">
-              Welcome to Akhuwat Loan, the reliable place to get loans in Pakistan. Akhuwat Loan was started in 2023 by Dr. Amjad Saqib with a clear goal: to give people all over the country access to low-interest loans. No matter how much money you have, we want to help you reach your personal and business goals. We are committed to giving our valued clients clear, reliable, and quick financial solutions that are made just for them.
+              Welcome to Asaan Qarz Loan, your reliable source for easy access to loans in Pakistan. Asaan Qarz was started in 2023 by Dr. Amjad Saqib with a clear goal: to give people across the country cheap loans with low interest rates. There is help for you whether you are trying to reach personal goals or grow your business. Our promise is to give you clear, reliable, and effective financial solutions that are made to fit your specific wants.
               </p>
               <div className="my-5 text-center p-4">
                 <img 
-                  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhY4gb1FqhjL_n2xno3miBhBFisWDqFooHgA&s"
-                  alt="Akhuwat Loan Logo" 
-                  className="img-fluid rounded shadow-sm mw-100 h-100" 
+                  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDgYRRV9xKs2LOGCrDp_G4eVvrbU4iwb4YVg&s"
+                  alt="Asaan Qarz Loan Logo" 
+                  className="img-fluid rounded shadow-sm mw-100 h-100 card-img-top" 
                 />
               </div>
 
               <h2 className="fw-bold mt-5 mb-4">What We Do</h2>
 
               <p className="mb-4">
-              The only thing we do at Akhuwat Loan is help people who need money the most. We are sure that everyone, no matter how much money they make, should be able to get a reasonable loan. Through low-interest loans and customisable payment plans, we want to give our clients the money management skills they need to make their lives better and their quality of life better.
+              At Asaan Qarz Loan, our only goal is to help people who need money the most. We strongly think that everyone, no matter how much money they make, should be able to get loans that they can afford. We give our clients the power to take charge of their financial future and improve their quality of life by giving them low-interest loans with flexible payment choices.
 
               </p>
 
               <p className="mb-4">
-                We know how hard it can be to get a loan and how hard it is for many people in Pakistan to deal with money problems. Because of this, we promise that our services will be easy to use, quick, and clear. We work hard to get rid of obstacles by giving each customer easy-to-use, custom solutions that meet their specific needs.
+                We understand how hard it can be to get a loan, especially for people in Pakistan who are worried about their money. Because of this, we are dedicated to giving services that are simple, quick, and clear. Our goal is to get rid of obstacles by giving each customer custom solutions that meet their specific needs.
               </p>
 
-              <h2 className="fw-bold mt-5 mb-4">Why Akhuwat Loan is the Best Option?</h2>
+              <h2 className="fw-bold mt-5 mb-4">Why Asaan Qarz Loan is the Best Option?</h2>
 
               <ol className="fw-light mx-5">
-                <li>Low rates of interest</li>
-                <p>Our interest rates are some of the lowest in Pakistan, which makes it easier for you to get money without having to worry too much about your finances.</p>
                 <li>Quick Process for Approving</li>
-                <p>Quick Process for Approving
-We get the sense of urgency. Our simplified application process makes sure you get accepted quickly, without all the usual problems that come with traditional banking</p>
+                <p>We know how important it is to have money quickly. Our simple application process means that you'll get approved quickly, without all the hassles that come with traditional banking.</p>
                 <li>A lot of loan choices</li>
-                <p>We have a variety of loan products that are meant to meet your needs, whether you need a personal loan, business financing, help with school, or emergency funds.       </p>
+                <p>We have a wide range of loan options to meet all of your needs, whether you're looking for a personal loan, business funding, help with school, or emergency cash.</p>
                 <li>Fully open and honest</li>
-                <p>Because we're honest, there are no hidden fees or hard-to-understand terms. You'll know everything before you agree.</p>
-                <li>Customised Service</li>
-                <p>We take the time to learn about your finances so that we can give you the best loan amounts and payback pla</p>
+                <p>We think it's important to be clear. You'll know all the terms before you sign, so there are no surprises or unclear language.</p>
+                <li>Customized customer service</li>
+                <p>We take the time to learn about your finances so that we can give you advice on loan amounts and payment plans that are just right for you.</p>
               </ol>
 
-              <h2 className="fw-bold mt-5 mb-4">Dr. Amjad Saqib is our head founder</h2>
+              <h2 className="fw-bold mt-5 mb-4">Dr. Amjad Saqib is our head founder.</h2>
 
               <p className="mb-4">
-              Akhuwat Loan was started by Dr. Amjad Saqib, a creative leader and generous donor. Because he is so dedicated to financial inclusion, Dr. Saqib has been a tireless supporter of social welfare and economic empowerment, especially in areas that don't get enough help. Akhuwat Loan has become an important organisation thanks to his guidance, giving hope and money to thousands of people across Pakistan.
+              Dr. Amjad Saqib is a well-known social thinker and philanthropist who came up with the idea for Asaan Qarz Loan. Because he has always cared about financial inclusion and giving people power in their communities, he has been a strong supporter of social aid programs in Pakistan's underserved areas. Asaan Qarz Loan has become a beacon of hope and opportunity under his guidance, giving thousands of people across the country long-term financial solutions.
 
               </p>
               <div className="my-5 text-center">
                 <img 
                   src={Infographic}
-                  alt="Akhuwat Core Values" 
+                  alt="Asaan Qarz Core Values" 
                   className="img-fluid rounded shadow-sm" 
                 />
               </div>
               <p className="mb-4">
-              Dr. Amjad Saqib, who started Akhuwat Loan, had a lot of wisdom and always cared about people. This is what made the company so successful. Dr. Saqib has built Akhuwat Loan's mission around providing fair and easy access to financial services for everyone. He has a deep knowledge of Pakistan's financial landscape and has been dedicated to social justice his whole life. Every part of our business is still guided by his vision, and it shows in how we help communities across the country.
+              Dr. Amjad Saqib, who started Asaan Qarz Loan, is a wise, kind, and unwaveringly committed man who works to improve society. His vision is what has made our success possible. Dr. Saqib built Asaan Qarz Loan with the goal of making fair, simple, and easy funding available to everyone. He did this because he knew a lot about Pakistan's financial problems and had always been committed to social justice. His ideas still shape our services and help us serve people all over the country.
               </p>
 
 
-              <h2 className="fw-bold mt-5 mb-4">Being honest is what we stand for.</h2>
+              <h2 className="fw-bold mt-5 mb-4">What We Stand For</h2>
 
               <ul className="fw-light mx-5">
-                <li>Our work is based on being open and honest. Being honest and open with every client is important to us because we want to build strong, trust-based relationships with them.</li>
-                <li>Focus on the customer: We base every service we offer on what you need. Our team is dedicated to giving each person personalized help and the best financial options for their needs.</li>
-                <li>New ideas: Modern financial tools and technologies are always being added so that we can better meet the changing wants of our customers. </li>
-                <li>Being Socially Responsible: We do more than just give loans; we also try to improve whole neighborhoods. We help the economy grow and make long-term growth by providing sustainable and open financin</li>
+                <li>Being clear: At every level, we are honest and open with each other. We believe in building trust with every client by being clear in our communication and being honest about our terms.</li>
+                <li>Focussing on the customer: Our services are based on what you want. We are proud of the fact that we can help each person individually and suggest the best financial options for their needs.</li>
+                <li>New ideas: New financial tools and technology are always being added so that we can better meet the changing needs of our customers.</li>
+                <li>Being Socially Responsible: We have an effect that goes beyond giving loans. We want to improve whole communities by promoting economic growth that benefits everyone and providing clear, long-term financial answers.</li>
               </ul>
 
-              <h2 className="fw-bold mt-5 mb-4">Our Services for Financing</h2>
+              <h2 className="fw-bold mt-5 mb-4">Personal loans are one of our financial services.</h2>
 
               <p className="mb-4">
-                We have a lot of different loan options to meet the wants of people from all walks of life:
+                Flexible funds to help with things like school, health care, or situations that come up out of the blue.
               </p>
 
               <ul className="fw-light mx-5">
-                <li>Loans for people</li>
-                <p >You can use these flexible funds for things like schooling, health care, or sudden emergencies.</p>
                 <li>Loans for businesses</li>
-                <p>Help for entrepreneurs and small business people to start up, run, or grow their businesses.</p>
+                <p >Giving founders and small businesses the money they need to start up, run, or grow their businesses.</p>
                 <li>Loans for school</li>
-                <p>Students can reach their academic goals without worrying about money if they can get affordable support.</p>
+                <p>Offering low-cost, interest-free loan choices to help students reach their academic goals.</p>
                 <li>Instant Loans</li>
-                <p>Help with money right away for emergencies, provided quickly and reliably.      </p>
+                <p>Quick and reliable cash help when you need it most or when you least expect it.</p>
                 <li>Loans with no interest</li>
-                <p>Shariah-compliant loans that are easy to pay back and have no interest are meant to give low-income people and families more power.</p>
+                <p>Shariah-compliant loans with no interest that are meant to help people and families with low incomes</p>
               </ul>
 
               <h2 className="fw-bold mt-5 mb-4">Our Promise to Pakistan</h2>
 
               <p className="mb-4">
-              Akhuwat Loan is proud to be a mission-driven group based in Pakistan that works to improve the economy of the whole country. Our goal is to open up new possibilities and make people's lives better by making financial services easy to get, honest, and cheap.
+              Asaan Qarz Loan is a company with a mission that is happy to be based in Pakistan. Our goal is to make life better and the economy stronger by making banking services easy to get to, clear, and cheap.
               </p>
 
               <p className="mb-4">
-              We are here to help you whether you are starting a business, paying for school, or dealing with a cash emergency. One loan at a time, we're making Pakistan better and more open to everyone.
+              We're here to help you whether you're starting a business, paying for school, or dealing with a cash emergency. We're building a better, more open Pakistan one loan at a time.
               </p>
               <div className="my-5 text-center">
                 <img 
-                  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0kyobUAQdsFq2IgotLERSGa9GA4S63NQU5Q&s"
-                  alt="Akhuwat Loan Values Diagram" 
-                  className="img-fluid rounded shadow-sm" 
+                  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMc9jxJjSmjl1X3ntCR560q_6qK-zvyi_g3w&s"
+                  alt="Asaan Qarz Loan Values Diagram" 
+                  className="img-fluid rounded shadow-sm card-img-top" 
                 />
               </div>
-              <h2 className="fw-bold mt-5 mb-4">Join the family of Akhuwat Loans.</h2>
+              <h2 className="fw-bold mt-5 mb-4">Join the family of Asaan Qarz Loans</h2>
 
               <p className="mb-4">
-              When you join Akhuwat Loan, you get more than just a loan. You also get a trusted partner who will help you with your money all the way through. We want to help you make smart decisions about your money and reach your goals without any stress or trouble.
+              When you join Asaan Qarz Loan, you don't just get a loan; you also get a trusted financial partner who will be there for you every step of the way. We want you to make smart decisions about your money and reach your goals with ease, honesty, and peace of mind.
               </p>
 
               <p className="mb-4">
-              Get a loan today and see what makes Akhuwat Loan different. With our quick, safe, and reliable banking services, we can help you make your dreams come true.
+              Get your loan today and see what makes Asaan Qarz different. It's never been easier to make your goals come true with our quick, safe, and reliable services.
 
               </p>
             </article>

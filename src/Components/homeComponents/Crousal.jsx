@@ -1,6 +1,6 @@
 import React, { useEffect, useState, useContext } from 'react';
 import AppContext from '../context/appContext';
-
+import coverImage from '../../Images/coverImage.jpg'
 const Crousal = () => {
   const [isMobile, setIsMobile] = useState(window.innerWidth < 768);
   const [uploading, setUploading] = useState(false); // New loading state
@@ -25,13 +25,15 @@ const Crousal = () => {
   }
 };
 
+const color = "#0195ff"
+
   return (
     <div
       className="container-fluid py-5 d-flex justify-content-center align-items-center flex-wrap mainCarousal"
       style={{
         height: '1300px',
         backgroundImage:
-          'url("https://media.licdn.com/dms/image/v2/D4D22AQGW6D-qnRLyLw/feedshare-shrink_800/B4DZPGYFg0G0Ao-/0/1734200024273?e=2147483647&v=beta&t=M7zwQPLEUJL2-1JF96KiK8hEtq0ERRJa7rG1XzXdJdI")',
+          `url(${coverImage})`,
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         backgroundRepeat: 'no-repeat',
@@ -46,7 +48,7 @@ const Crousal = () => {
           left: 0,
           right: 0,
           bottom: 0,
-          backgroundColor: 'rgba(0, 0, 0, 0.4)',
+          backgroundColor: 'rgb(1 149 255 / 25%)',
           zIndex: 1,
         }}
       />
@@ -60,7 +62,7 @@ const Crousal = () => {
             className={`${isMobile ? 'fw-bold fs-3' : 'display-5 fw-bold px-5'}`}
             style={{ color: 'white' }}
           >
-            Experts say that the Akhuwat Loan Program is one of the best places in Pakistan to get a loan.
+            A lot of experts say that the Asaan Qarz Loan Program is one of the best ways to get a loan in Pakistan.
           </h1>
         </div>
 
@@ -256,7 +258,7 @@ const Crousal = () => {
                 type="submit"
                 className="btn w-100 d-flex justify-content-center align-items-center"
                 style={{
-                  backgroundColor: '#ff4444',
+                  backgroundColor: color,
                   color: 'white',
                   border: 'none',
                   padding: '12px',

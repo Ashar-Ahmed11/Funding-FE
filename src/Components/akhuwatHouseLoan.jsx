@@ -5,35 +5,35 @@ import FirstOne from '../Images/House Loan.jpg';
 import SecOne from '../Images/For house loan.jpg';
 
 
-const AkhuwatHouseLoan = () => {
+const akhuwatHouseLoan = () => {
   return (
     <div className="container-fluid px-4 py-4" style={{ maxWidth: "1000px", margin: "0 auto", fontSize:'22px' }}>
       <div className="text-center mb-5">
-        <h1 className="fw-bold mb-3">You can make your dream home come true with an Akhuwat</h1>
+        <h1 className="fw-bold mb-3">Asaan Qarz can help you reach your goal of owning a home.</h1>
         <p className="lead mx-auto" style={{ maxWidth: "900px" }}>
-        A lot of people want to own their dream home, but the high cost of standard mortgages makes it seem impossible for many. The Akhuwat Housing Loan is a simple, interest-free option made just for people who need it the most.
+        The high cost of traditional mortgages makes it seem like not being able to buy a dream house. Asaan Qarz Housing Loan changes that by giving people who need it most a way to borrow money without having to pay interest or deal with any other problems.
         </p>
       </div>
 
       {/* Benefits Section */}
       <div className="row mb-5 align-items-center">
         <div className="col-lg-7 col-md-6">
-          <h2 className="fw-bold mb-3">Thanks to Akhuwat's low-cost, interest-free home loans,</h2>
+          <h2 className="fw-bold mb-3">These affordable, zero-interest loans have enabled many Pakistanis</h2>
           <p>
-          Many people in Pakistan who thought they could never own their own home can now. Akhuwat can help you make your dream home come true, whether you want to buy a new one or fix up the one you already have.
+          Whether you want to buy a house or fix up the one you already have, Asaan Qarz makes the process easy and doable.
           </p>
           <ul>
-            <li>No Need for Security: Traditional home loans usually need collateral like land or other assets. Akhuwat Foundation's home loan doesn't need any security. This means that a lot more people can use it, especially those who don't own property or other important things.</li>
-            <li>Plans for affordable repayment: Akhuwat gives you a variety of payment choices based on your income and ability to pay back the loan. This personalised method makes sure that paying back the loan stays doable and doesn't become too expensive.</li>
-            <li>Getting more people to use money: Akhuwat helps people get access to money by offering interest-free home loans, especially to low-income families who can't normally get loans from banks. This gives people the power to buy their own homes and become financially stable.</li>
-            <li>Making living conditions better:The main goal of Akhuwat's housing loan is to make families' lives better by giving them safe, secure, and nice places to live.</li>
+            <li>On the other hand, normal home loans need collateral like land or valuable things, but Asaan Qarz's home loans don't need any security. This means that anyone can use it, even if they don't own land or valuable things.</li>
+            <li>The loan terms are based on your income and financial situation so that paying it back is easy. This way, your monthly payments will always be doable. This tailored method helps borrowers keep their finances in order while they reach their housing goals.</li>
+            <li>Asaan Qarz also works to include everyone in the financial system by giving these housing loans to underserved and low-income areas. This gives families the chance to own their own houses, become financially stable, and live in a safer and more respectable place.</li>
+            {/* <li>Making living conditions better:The main goal of Asaan Qarz's housing loan is to make families' lives better by giving them safe, secure, and nice places to live.</li> */}
           </ul>
         </div>
         <div className="col-lg-5 col-md-6 text-center">
           <img
-            src={FirstOne}
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO1mFV1ob_80rpy1jIsoJlbGlWVEn3hv8fKw&s"
             alt="Money Received"
-            className="img-fluid wm-100 h-100"
+            className="img-fluid wm-100 h-100 card-img-top"
             style={{ objectFit: "cover" }}
           />
           <div className="start-0 bg-success text-white p-0" style={{ maxWidth: "100%" }}>
@@ -46,22 +46,22 @@ const AkhuwatHouseLoan = () => {
       {/* Additional Info Section */}
       <div className="row mb-5 align-items-center">
         <div className="col-lg-7 col-md-6">
-          <h2 className="fw-bold mb-3">Who Can Hurry Up?</h2>
+          <h2 className="fw-bold mb-3">Who Should Apply Right Away?</h2>
           <p className=''>
-            Open to all Pakistanis who really need a place to live.
+            All Pakistanis who really need a safe place to live can get an Asaan Qarz Housing Loan. They're perfect for people and families with low incomes who want to build, buy, or fix up a house.
           </p>
           <ul>
-            <li>Perfect for people and families with low incomes who want to build, buy, or fix up a house.</li>
-            <li>Applicants must show basic papers like a driver's license and proof that they live in the country.</li>
-            <li>Getting involved in the community and getting recommendations can help your application.</li>
+            <li>Ideal for Low-Income Families: Made to help low-income people and families who want to buy, build, or fix up a home.</li>
+            <li>Simple papers: Applicants must send in basic papers such as a driver's license and proof of where they live.</li>
+            <li>Community Support Advantage: Being active in the community and having suggestions can make your application stronger.</li>
           </ul>
         </div>
 
         <div className="col-lg-5 col-md-6 text-center p-3">
           <img
-            src={SecOne}
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgQ2Mp5HGh3mC8MCnWRlHvTnIxb9aITNFQSw&s"
             alt="Housing Help"
-            className="img-fluid wm-100 h-80"
+            className="img-fluid wm-100 h-80 card-img-top"
             style={{ objectFit: "cover" }}
           />
           <div className="start-0 bg-success text-white p-0" style={{ maxWidth: "100%" }}>
@@ -74,13 +74,13 @@ const AkhuwatHouseLoan = () => {
       {/* Application Process Section */}
       <div className="row mb-5 align-items-center">
         <div className="col-12">
-          <h2 className="fw-bold mb-3 text-center">What You Need to Do to Get an Akhuwat Home Loan</h2>
+          <h2 className="fw-bold mb-3 text-center">How to Get a Home Loan from Asaan Qarz</h2>
           <ul>
-            <li><strong>Make sure you are eligible:</strong> You must be a Pakistani citizen who really needs help with living.</li>
-            <li><strong>Get the documents you need:</strong> Get your ID, proof of income, and a short account of your home project ready, whether you are building, buying, or remodelling.</li>
-            <li><strong>Send in your application:</strong> You can fill out and turn in your application at the Akhuwat office that is closest to you.</li>
-            <li><strong>Review of Applications:</strong> The Akhuwat team will carefully look over your application. If your loan is accepted, you will be told right away.</li>
-            <li><strong>Get your money.:</strong> Once approved, the funds will be sent to you according to the terms that were agreed upon. This will let you begin working on your home project.</li>
+            <li><strong>Check Eligibility:</strong> Make sure you are a Pakistani national who really needs a place to live.</li>
+            <li><strong>Get the documents ready:</strong> Get your ID, proof of income, and a short outline of your housing plan, including whether you want to build, buy, or fix up a home.</li>
+            <li><strong>Send in Application:</strong> To fill out and send in your loan application, go to the Asaan Qarz office that is closest to you.</li>
+            <li><strong>Review of Your Application:</strong> The Asaan Qarz team will carefully look over your application. If accepted, you'll be told right away.</li>
+            <li><strong>Get your money:</strong> You will get the money after being approved, and it will be sent to you according to the terms of the loan. This will let you start working on your home project.</li>
           </ul>
         </div>
       </div>
@@ -88,5 +88,5 @@ const AkhuwatHouseLoan = () => {
   );
 };
 
-export default AkhuwatHouseLoan;
+export default akhuwatHouseLoan;
 

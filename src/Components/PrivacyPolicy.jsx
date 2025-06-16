@@ -20,72 +20,65 @@ const PrivacyPolicy = () => {
               <h1 className="fw-bold mb-4">Privacy Policy</h1>
 
               <p className="mb-4">
-              We really value the trust you put in Akhuwat Loan by giving us your personal information. Our top goal is to keep your privacy safe, and we are committed to upholding the highest standards of security and privacy. When you use our services or visit our website, this Privacy Policy tells you how we gather, use, and keep your personal information safe.
+              At Asaan Qarz Loan, we deeply value the trust you place in us by sharing your personal information. Protecting your privacy is our highest priority, and we are committed to maintaining the strictest standards of security and confidentiality. This Privacy Policy outlines how we collect, use, and safeguard your personal information when you use our services or visit our website. By doing so, you agree to the terms outlined in this policy.
               </p>
-              <p className="mb-4">
-                You agree to the terms and conditions in this Privacy Policy when you use Akhuwat Loan's services or visit its website.
-              </p>
+              {/* <p className="mb-4">
+                You agree to the terms and conditions in this Privacy Policy when you use Asaan Qarz Loan's services or visit its website.
+              </p> */}
               <div className="my-5 text-center">
                 <img
-                  src="https://akhuwatloanschemepk.com/wp-content/uploads/2024/03/soft-loan-pakistan.jpg"
+                  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM24VYIKo_qy8T5g4MzVPuFFfLA_vunC799Q&s"
                   alt="Soft Loan Pakistan"
                   className="img-fluid rounded shadow-sm"
                   style={{ width: "80%", height: "auto" }}
                 />
               </div>
-              <h2 className="fw-bold mt-5 mb-4">1. The data we collect</h2>
+              <h2 className="fw-bold mt-5 mb-4">1. The information we gather Personal details</h2>
 
               <p className="mb-4">
                 <strong>Information About You:</strong>
               </p>
               <ul className="fw-light mx-5">
                 <li>
-                 Name, address, phone number, email address, CNIC, information about your income, and bank account information are needed to apply for a loan.
+                 A person's name, address, phone number, email address, CNIC, information about their income, and bank account information are needed to apply for a loan.
                 </li>
                 <li>
-                Contact Us: Your name, phone number, email address, and any other information you give us over the phone, in person, or through email.
-                </li>
-                <li>
-                Contact Us: Your name, phone number, email address, and any other information you give us over the phone, in person, or through email.
+                More information can be given through forms, calls, emails, or talks in person.
                 </li>
               </ul>
 
               <p className="mb-4">
-                <strong>Non-Personal Data:</strong>
+                <strong>Information that is not personal::</strong>
               </p>
               <ul className="fw-light mx-5">
                 <li>
-                  IP address, browser type, device type, referring URL, and
-                  website usage patterns collected via cookies and tracking
-                  technologies.
+                 Cookies and other tracking tools gather information about your device, IP address, browser type, and how you use websites.
                 </li>
               </ul>
 
               <h2 className="fw-bold mt-5 mb-4">
-                2. What We Do With Your Facts
+                2. Describe how we use the information you give us to handle loan requests and decide who is eligible.
               </h2>
 
               <ul className="fw-light mx-5">
-                <li>Handle loans and decide who is eligible.</li>
-                <li>Tell people about changes, answer their questions, and help them.</li>
-                <li>Send advertising and marketing materials (you can stop receiving them at any time).</li>
-                <li>Follow the rules and laws that apply to you.</li>
-                <li>Study how people use websites to make them better.</li>
+                <li>Get back to people who have asked about your application and give them information.</li>
+                <li>Send you appropriate marketing materials (you can unsubscribe at any time).</li>
+                <li>To meet law requirements and make the website work better.</li>
               </ul>
 
               <h2 className="fw-bold mt-5 mb-4">
-              3. Giving other people your information
+              3. Giving your info to dependable partners who will help you with loan handling and other services.
               </h2>
 
               <ul className="fw-light mx-5">
                 <li>
-                Having trusted service providers help with loan handling or support.
+                When needed by law or to keep users safe and protect their rights.
                 </li>
                 <li>
-                When the law says so or to protect people's rights and safety.
+                For when a company changes its structure, like when it merges or buys another corporation.
                 </li>
-                <li>During business moves like buying or merging with another company.</li>
-                <li>We don't rent or sell your information to other companies for business purposes.</li>
+                <li>We don't distribute or rent out your private information for advertising purposes.</li>
+                
               </ul>
 
               <p className="mb-4">
@@ -96,51 +89,47 @@ const PrivacyPolicy = () => {
               <h2 className="fw-bold mt-5 mb-4">4. Safety of Data</h2>
 
               <p className="mb-4">
-              Encrypting private info while it's being sent and stored.
+              When personal data is sent or stored, it is protected.
               </p>
               <p className="mb-4">
-              Access is limited to only authorized people.
+              Secret information can only be seen by people who are allowed to see it.
               </p>
               <p className="mb-4">
-              Checking for security holes on a regular basis.
+              Regular checks are done to find and fix any weaknesses
               </p>
               <p className="mb-4">
-              We work hard to keep your information safe, but no online communication is 100% safe. When you share personal information online, please be careful.
+              It's our goal to keep your information safe, but no online method is 100% safe.
               </p>
 
               <h2 className="fw-bold mt-5 mb-4">
-                5. Cookies and other technologies that track you
+                5. Tracking tools and cookies
               </h2>
 
               <p className="mb-4">
-              Learn how people use your website.
+              To study how people use the website and make it better for them.
               </p>
               <p className="mb-4">
               Make your experience unique.
               </p>
               <p className="mb-4">
-              Give people relevant ads and information.
+              To show ads or information that is useful to you and your interests.
               </p>
-              <p className="mb-4">
-              Give people relevant ads and information.
-              </p>
+             
 
               <h2 className="fw-bold mt-5 mb-4">6. Your Rights</h2>
 
               <ul className="fw-light mx-5">
                 <li>
-                Get to the information about you.
+                To show ads or information that is useful to you and your interests.
                 </li>
                 <li>
-                 Ask for changes to be made to wrong info.
+                 If any of the information is wrong, ask for it to be fixed.
 
                 </li>
                 <li>
-                  Ask for changes to be made to wrong info.
+                  If any of the information is wrong, ask for it to be fixed.
                 </li>
-                <li>
-                Get in touch with us below to use these rights.
-                </li>
+               
               </ul>
 
               <p className="mb-4">
@@ -148,24 +137,31 @@ const PrivacyPolicy = () => {
                 below.
               </p>
 
-              <h2 className="fw-bold mt-5 mb-4">7. How Long to Keep Information</h2>
+              <h2 className="fw-bold mt-5 mb-4">7. Keeping the Data</h2>
 
               <p className="mb-4">
-              We only keep your personal information for as long as it takes to provide the service, follow the law, and keep records.
+              We will only keep your information for as long as it takes to provide services, follow the law, and keep records.
               </p>
 
-              <h2 className="fw-bold mt-5 mb-4">8. Links to other sites</h2>
+              <h2 className="fw-bold mt-5 mb-4">8. Linking to outside sites</h2>
 
               <p className="mb-4">
-              Our website may have links to outside sites that Akhuwat Loan does not control. We're not in charge of their material or how they handle your privacy.
+              There may be links to other pages on our site.
               </p>
+              <p className="mb-4">
+                There may be links to other pages on our site.
+              </p>
+
 
               <h2 className="fw-bold mt-5 mb-4">
-                9. How this privacy policy has been changed
+                9. Changes to the rules about privacy
               </h2>
 
               <p className="mb-4">
-              If we need to, we may change this procedure. This page will be updated, and big changes will be announced by email or on the website.
+              This policy may be changed from time to time.
+              </p>
+              <p className="mb-4">
+                Updates to the website or email alerts will let people know about big changes.
               </p>
 
               <h2 className="fw-bold mt-5 mb-4">10. Get in Touch</h2>
@@ -176,7 +172,7 @@ const PrivacyPolicy = () => {
 
               <ul className="fw-light mx-5">
                 <li>
-                  Send an email to support@akhuwatloanschemepk.com.
+                  Send an email to support@Asaan Qarzloanschemepk.com.
                 </li>
                 <li>
                 Call +92 0346 0760718

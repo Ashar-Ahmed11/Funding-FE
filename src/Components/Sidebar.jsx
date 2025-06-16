@@ -66,7 +66,7 @@ const Sidebar = () => {
       <div className="w-1/4 promo-container bg-white p-4 rounded shadow-sm">
         <Link to="/apply-now">
           <img 
-            src={myImg}
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqQ1tTKyFi2-BkX7jy1MQz6COG6vHn3NJRRw&s"
             alt="Akhuwat Loan Promotion" 
             className="img-fluid rounded"
           />

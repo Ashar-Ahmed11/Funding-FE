@@ -18,14 +18,14 @@ const ContactUs = () => {
         <div className={`${isMobile ? "col-12" : "col-lg-9"}`}>
           <main className="py-4 px-md-4 px-2 bg-light">
             <article className="bg-white shadow-sm rounded p-4 p-md-5">
-              <h1 className="fw-bold mb-4">Contact Us – Akhuwat Loans</h1>
+              <h1 className="fw-bold mb-4">Contact Us – Asaan Qarz Loans</h1>
 
               <p className="mb-4">
-              We at Akhuwat Loan are dedicated to giving you great customer service and making it easy to meet your financial goals. Whether you're applying for a loan, finding out more about our services, or wanting help with an existing application, our experienced team is here to help you every step of the way. We want your experience to be easy and stress-free, so we'll keep you up to date at all times.
+              We at Asaan Qarz Loan are dedicated to giving you great customer service and making sure that your financial journey goes smoothly and without any problems. Our experienced team is here to help you every step of the way, whether you're applying for a loan, learning more about our services, or need help with a current application.
               </p>
 
               <p className="mb-4">
-              Please feel free to get in touch with us in any of these ways. We put your concerns first and try to react quickly so that you don't have to deal with any problems.
+              We promise to answer quickly and make sure your concerns are taken care of quickly; your satisfaction is our top goal.
               </p>
 
              
@@ -36,21 +36,21 @@ const ContactUs = () => {
                 <div className="contact-method mb-4">
                   <h3 className="fw-bold">1. Send us an email</h3>
                   <p>
-                  If you need help, our customer service team can be reached by email. Whether you need help with your application or just have a general question, we'll get back to you within 24 hours to help you quickly and correctly.
+                  Do you need help or have questions? Send an email to our customer service team. We'll get back to you within 24 hours to make sure you get the help you need, whether it's about your application or something else.
                   </p>
                 </div>
 
                 <div className="contact-method mb-4">
                   <h3 className="fw-bold">2. Call us</h3>
                   <p>
-                  Would you rather talk to someone directly? You can talk to a helpful member of our team by calling our customer service line. From 9 a.m. to 6 p.m., Monday through Friday (Pakistan Standard Time), we're here to answer your questions about loan choices, eligibility, and the application process.
+                  Would you rather talk to a person directly? Our customer service line is open from 9 AM to 6 PM (Pakistan Standard Time) Monday through Friday. We're happy to answer any questions you have about loan types, eligibility, or the progress of your application.
                   </p>
                 </div>
 
                 <div className="contact-method mb-4">
                   <h3 className="fw-bold">3. Come to our office</h3>
                   <p>
-                  You are welcome to come to our office if you are in or near Islamabad. Meeting with one of our loan specialists in person gives you more personalized help and a better idea of how the loan process works. When you're making financial choices, we're here to help you.
+                  Come to our office, which is close to Islamabad. Come see us in person to get help from one of our loan experts. We give you personalised advice to help you make smart choices about your money.
                   </p>
                 </div>
               </div>
@@ -69,10 +69,15 @@ const ContactUs = () => {
               </div>
 
               <div className="quote-section mb-4">
-                <h3 className="fw-bold">Get a Free Loan Quote Right Now</h3>
+                <h3 className="fw-bold">Get a free loan quote right now.</h3>
                 <p>
-                Get in touch with us to talk about a personalized loan, whether you're ready to apply or just looking around. Our skilled staff will walk you through the application process, answer all of your questions, and help you get the best terms possible. At Dasti Loan, our goal is to help you reach your financial goals by giving you custom loan options.
+                If you're ready to apply or just want to know more about your choices, we can help! Get in touch with us for a free, personalised loan advice.
+
+Our skilled staff will walk you through the application process, answer all your questions, and help you get the best loan terms for your needs.
+
+Dasti Loan's goal is to help you reach your financial goals by giving you personalised, interest-free loan options that work for you.
                 </p>
+                <p>Get in touch with us right away to start making your financial situation better.</p>
               </div>
             </article>
           </main>

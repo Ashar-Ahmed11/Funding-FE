@@ -9,7 +9,7 @@ const AkhuwatImages = () => {
       <div className="row justify-content-center text-center">
         <div className="col-md-6 py-3 mb-4 mb-md-0 d-flex justify-content-center">
           <img 
-            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhHm45QctSA21uw0moUyYhOXsZjvdkR71LBw&s"
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS90ou9ZiFHcZJYRmNbfnf_4cbH7cVPCq6w8g&s"
             alt="Hasina Bibi - Stitching Business" 
             className="card-img-top rounded "
           
@@ -18,7 +18,7 @@ const AkhuwatImages = () => {
   
         <div className="col-md-6 py-3 d-flex justify-content-center">
           <img 
-            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiCTQxbl2RP7ZBAolnL8qV3YtMPI3DtLkFsw&s"
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvBHY3NWuzL30649puDElaLcy0_6ot6Gfxpw&s"
             alt="Farzana Bibi - Beauty Parlour" 
             className="card-img-top rounded "
           

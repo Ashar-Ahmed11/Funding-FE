@@ -1,5 +1,5 @@
 import React from 'react';
-import lonSchemeImg from '../../Images/akhuwatimgone.jpeg'
+// import lonSchemeImg from '../../Images/Asaan Qarzimgone.jpeg'
 
 const AkhuwatLoanScheme = ()=>{
   return (
@@ -7,23 +7,23 @@ const AkhuwatLoanScheme = ()=>{
       <div className="container ">
         <div className="row align-items-center">
           <div className="col-lg-5 " >
-            <h1 className="fw-bold mb-4">Credit Scheme for the Akhuwat Foundation</h1>
+            <h1 className="fw-bold mb-4">Plan for Giving Credit to Asaan Qarz</h1>
             
             <p className="mb-4 fw-bold mt-1">
-            People from all walks of life can use the Akhuwat Foundation's easy-to-use payment system. The application process is easy and quick, and you only need to fill out a small amount of papers. The plan offers loans at low rates, which makes it a popular choice all over Pakistan.
+            Asaan Qarz has a credit system that is easy to understand, open to everyone, and made to work for everyone. It makes it easy for people to get money because the payment system is simple and the application process is quick and doesn't require much papers. It is a popular choice in Pakistan because the interest rates are so low.
             </p>
             
             <div className="border-start border-primary border-4 ps-3 mb-4 mt-1">
               <p className="mb-0">
-              If you need help or find the process confusing, just call the Akhuwat head office. They have helpful support staff ready to help you right away.
+              Anyone from the Asaan Qarz head office can help you if you ever need it or aren't sure what to do. Their helpful and friendly staff is always ready to help you and make sure your experience goes smoothly and without any stress.
               </p>
             </div>
           </div>
           
           <div className="col-lg-7 mt-5">
             <img 
-              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd3z3CFhlmBzS0E_pqBcazpNPh_0SgE_B_QA&s" 
-              alt="Akhuwat Loan Scheme Details in Urdu" 
+              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhY4gb1FqhjL_n2xno3miBhBFisWDqFooHgA&s" 
+              alt="Asaan Qarz Loan Scheme Details in Urdu" 
               className="card-img-top "
               // style={{height:"500px"}}
             />

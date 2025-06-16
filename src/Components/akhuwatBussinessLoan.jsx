@@ -7,37 +7,36 @@ const AkhuwatBusinessLoan = () => {
     <div className="container-fluid px-4 py-4" style={{ maxWidth: "1100px", margin: "0 auto", fontSize: '22px' }}>
       {/* Header Section */}
       <div className="text-center mb-5">
-        <h1 className="fw-bold mb-3">Akhuwat Business Loan: Giving Pakistani entrepreneurs the tools they need to succeed</h1>
+        <h1 className="fw-bold mb-3">Asaan Qarz Business Loan: Giving Pakistani Business Owners the Tools They Need</h1>
         <p className="lead mx-auto" style={{ maxWidth: "900px" }}>
-        Pakistani business owners can get the money they need to start or grow their companies through the Akhuwat Business Loan. It can be hard to start or grow a business, especially if you don't have enough money. People who can't get loans from traditional banks can use Akhuwat's interest-free loans as a great option. The Foundation's job is to give Pakistani business owners the money they need to grow their companies, become financially independent, and make the country's economy stronger.
+        Pakistani business owners who want to start or grow their companies can get the Asaan Qarz Business Loan, which gives them the money they need. Starting a business or making it bigger can be hard, especially if you don't have enough money. With its interest-free loan plan, Asaan Qarz provides a useful option for people who can't get loans from regular banks. The Foundation's goal is to help business owners become financially independent while also helping the economy of Pakistan grow.
         </p>
         <p className="lead mx-auto" style={{ maxWidth: "900px" }}>
           
-Akhuwat's loan program can help you make your business dreams come true, whether you want to open a store, start a service-based business, or put money into small-scale manufacturing.
+Asaan Qarz's loan program can help you reach your business goals, whether you want to open a shop, start a service-based business, or invest in small-scale manufacturing.
         </p>
       </div>
 
       {/* Benefits Section */}
       <div className="row mb-5 align-items-center">
         <div className="col-lg-7 col-md-6">
-          <h2 className="fw-bold mb-3">What's Good About an Akhuwat Business Loan</h2>
-          <p>Interest-free financing: Don't have to worry about the heavy load of high interest rates that often slow down business growth.</p>
+          <h2 className="fw-bold mb-3">Why Should You Get a Business Loan from Asaan Qarz?</h2>
+          <p>Loans with no interest – You can grow your business without having to worry about high interest rates, which often slow things down.</p>
           <ul>
-            <li><strong>No Collateral Needed:</strong> You can easily get money without putting your own things at risk.</li>
-            <li><strong>Flexible Repayment Options:</strong> Repayment plans that are made to fit the cash flow of your business, which makes it easier to keep track of payments.</li>
-            <li><strong>Flexible Repayment Terms:</strong> Loan repayments are customized to suit your business’s cash flow, making it easier to stay on track.</li>
-            <li><strong>Helping Small Businesses:</strong> by giving creators the tools they need to make jobs, grow local economies, and improve the well-being of their communities.</li>
-            <li><strong>Promoting Financial Inclusion: </strong>  Giving underserved groups access to financial resources, which leads to a more fair and inclusive economy.</li>
+            <li><strong>No Collateral Needed:</strong> Get access to money without putting up personal property as collateral. This makes borrowing safer and easier.</li>
+            <li><strong>Flexible Repayment Options:</strong> Repayment plans are made to fit the earnings of your business, which helps you stay on track and avoid stress.</li>
+            <li><strong>Support for Small Businesses:</strong> Giving entrepreneurs the tools they need to create jobs, improve local economies, and make their towns better places to live.</li>
+            <li><strong>Promoting Financial:</strong> Inclusion means giving people who don't have access to enough financial options the chance to do so. This helps make the economy more fair and open to everyone.</li>
           </ul>
         </div>
         <div className="col-lg-5 col-md-6 ">
           <img
-            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh8ZVpgulBzdmhEa3jmI39-P5_YD2ZT4M1Ng&s"
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl8YO93oR6yQz6YQ-5fx0jxuj4Mf0qERo7tA&s"
             alt="Business Loan Support"
-            className="img-fluid wm-100 h-100"
+            className="img-fluid wm-105 h-100 card-img-top"
             style={{ objectFit: "cover" }}
           />
-          <div className="start-0 bg-success text-white p-0" style={{ maxWidth: "75%" }}>
+          <div className="start-0 bg-success text-white p-0" style={{ maxWidth: "100%" }}>
             <p className="mb-0 text-center">SUPPORTING ENTREPRENEURS</p>
             <h2 className="display-4 text-center fw-bold">
   <CountUp end={14} duration={3} suffix="K+" />
@@ -49,25 +48,25 @@ Akhuwat's loan program can help you make your business dreams come true, whether
       {/* How to Apply Section */}
       <div className="row mb-5 align-items-center">
         <div className="col-lg-7 col-md-6">
-          <h2 className="fw-bold mb-3">Easy Steps to Follow to Get an Akhuwat Business Loan</h2>
+          <h2 className="fw-bold mb-3">How to Get an Asaan Qarz Business Loan in 3 Easy Steps Check Your Eligibility</h2>
           <p>
-          Make sure you are eligible.
+          Make sure you meet the most basic requirements to apply.
           </p>
           <ul>
-            <li><strong>Get your papers ready.:</strong> Get important papers together, like your Computerised National Identity Card (CNIC), proof that you live where you say you do, and information about your business.</li>
-            <li><strong>Send in your application:</strong> The main Akhuwat website makes it easy to apply online. Our team is ready to help you with any paperwork and walk you through the whole application process.</li>
-            <li><strong>Authorisation and Payment:</strong> The loan amount will be sent to you right away after your application is reviewed and accepted.</li>
-            <li><strong>Paying back:</strong> Pay back your loan in manageable payments as agreed upon in the payback plan.</li>
+            <li><strong>Get Your Documents Ready:</strong> Get the documents you need, like your CNIC, proof of where you live, and information about your business.</li>
+            <li><strong>Please send in your application:</strong> Please send in your application </li>
+            <li><strong>Approval and Payment:</strong> Once your loan application is reviewed and accepted, the money will be sent to you right away.</li>
+            <li><strong>Repayment:</strong> Follow the agreed-upon repayment plan and pay back the loan in easy, regular installments.</li>
           </ul>
         </div>
         <div className="col-lg-5 col-md-6  p-3">
           <img
-            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7Zn3S1v3vDK7fL8KlEpX2Zk3D_SmTuOAh8Q&s"
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRThI5YydDKDI27iS5TapRll_bcwdl3xa8Dpw&s"
             alt="Entrepreneur Support"
-            className="img-fluid wm-100 h-80"
+            className="img-fluid wm-100 h-80 card-img-top"
             style={{ objectFit: "cover" }}
           />
-          <div className="start-0 bg-success text-white p-0" style={{ maxWidth: "84%" }}>
+          <div className="start-0 bg-success text-white p-0" style={{ maxWidth: "100%" }}>
             <p className="mb-0 text-center">BUSINESSES SUPPORTED</p>
             <h2 className="display-4 text-center fw-bold">
   <CountUp end={8000} duration={3} suffix="+" />
@@ -79,12 +78,12 @@ Akhuwat's loan program can help you make your business dreams come true, whether
       {/* Additional Information Section */}
       <div className="row mb-5">
         <div className="col-12 text-center">
-          <h2 className="fw-bold mb-3">Why Should You Get an Akhuwat Business Loan?</h2>
+          <h2 className="fw-bold mb-3">Why Should You Get a Business Loan from Asaan Qarz?</h2>
           <p>
-            Akhuwat Business Loans are designed to help business owners at all stages, from making a dream a reality to growing a business that is already up and running. Akhuwat removes financial barriers by providing interest-free loans with no security needed. This gives people the power to become truly financially independent.
+            Asaan Qarz Business Loans are designed to help business owners at all stages, from starting out to growing their current business. Asaan Qarz removes financial obstacles by providing interest-free loans without needing any security. This gives people the power to fully manage their own financial journey.
           </p>
           <p>
-            Akhuwat's support for small businesses helps communities grow by making work available, boosting local economies, and making it easier for families across Pakistan to make a living.
+            This project not only helps businesses grow, but it also helps communities by making jobs available, boosting local economies, and making people's lives better all over Pakistan.
           </p>
         </div>
       </div>
@@ -92,9 +91,9 @@ Akhuwat's loan program can help you make your business dreams come true, whether
       {/* Conclusion Section */}
       <div className="row mb-5">
         <div className="col-12 text-center">
-          <h2 className="fw-bold mb-3">Sign up for the Akhuwat Movement Right Now!</h2>
+          <h2 className="fw-bold mb-3">Join the movement for Asaan Qarz right now!</h2>
           <p>
-            Are you ready to build your business even more? Akhuwat Business Loans can help you make your dreams come true. You can start the process of becoming a great business owner right now by going to the Akhuwat branch closest to you or applying online.
+            Are you ready to grow your business? With Asaan Qarz Business Loans, you can make your business dreams come true. Open an account at the Asaan Qarz store closest to you or apply online right now to start your path to success.
           </p>
         </div>
       </div>
